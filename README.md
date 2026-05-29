@@ -1,4 +1,5 @@
-Centro Universitário UMA
+Centro Universitário UNA
+
 Algoritmos e Programação
 Programação de Soluções Computacionais
 Professor Daniel Henrique Matos de Paiva
